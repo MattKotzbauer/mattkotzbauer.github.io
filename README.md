@@ -1,5 +1,10 @@
 # mattkotzbauer.github.io
 
-this is a readme
+site contents: 
 
-this
+(intro)
+open source work
+
+(resume on request)
+
+
